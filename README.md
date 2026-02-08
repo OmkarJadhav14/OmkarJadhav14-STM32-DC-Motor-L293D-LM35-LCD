@@ -58,7 +58,6 @@ The project demonstrates timer configuration, ADC interfacing, PWM generation, s
 - Temperature monitored motor systems
 - Cooling fan controllers
 - Industrial motor protection systems
-- Smart embedded control systems
 
 ---
 
