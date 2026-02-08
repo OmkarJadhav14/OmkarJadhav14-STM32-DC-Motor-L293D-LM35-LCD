@@ -1,0 +1,114 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# STM32CubeIDE project settings (do not upload)
+.settings/
+.project
+.cproject
+.mxproject
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# debug information files
+*.dwo
+# STM32CubeIDE build folders
+Debug/
+Release/
+build/
+
+# STM32 generated files
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.axf
+*.d
+
+# IDE settings
+.settings/
+.metadata/
+.idea/
+.vscode/
+
+# STM32 launch configs
+*.launch
+*.ioc.metadata
+
+# Keil files
+Objects/
+Listings/
+*.uvoptx
+*.uvprojx
+*.uvgui.*
+
+# Logs
+*.log
+
+# Backup & temp
+*~
+*.bak
+*.tmp
+*.temp
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled libraries
+*.a
+*.lib
+
